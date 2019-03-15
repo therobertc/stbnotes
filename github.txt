@@ -83,6 +83,8 @@ Updates:
 Resources: 
 https://guides.github.com/activities/hello-world/
 
+command line tutorial
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 
 
