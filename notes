@@ -1,0 +1,55 @@
+(Question)
+
+	Is it possible to change code in a smart contract? pg. 10 code that no one can 		change 
+
+	How can you get the ethereum computer to run code faster? What takes so long to 	run the code? Why is it expensive?
+
+(/Question)
+
+Ethereum vs Ether
+
+Ethereum is a network of computers and Ether is the fuel used to power the network.
+
+	Ether is used to 
+		pay transaction fees 
+		launch a contract 
+		call functions from a contract 
+
+Ethereum Virtual Machine (EVM) 
+
+	EVM is a program that the network of computers runs 
+		the EVM runs smart contracts
+
+Smart Contracts 
+
+	smart contracts can be made in different languages 
+		Serpent
+		Viper 
+		Solidity 
+Gas 
+
+	any transaction that invokes a smart contract method gets executed on every single 	ethereum node/client 
+
+	ethereum can be thought of as a decentralized world computer, where you pay for 	computation using Ether
+
+	the more complex the commands you wish to execute in a smart contract, the more 	gas you have to pay 
+
+Ethereum Nodes
+
+	an ethereum node is also called an ethereum client
+	nodes/clients parse and verify the blockchain, its smart contracts and everything 	related.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
